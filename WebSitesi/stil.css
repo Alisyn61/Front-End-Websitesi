@@ -1,0 +1,79 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@300&display=swap');
+
+.resimSlider{
+height: 500px;
+
+}
+body{
+
+    padding-top: 50px;
+    
+
+    font-family: 'Raleway', sans-serif;
+}
+
+.hakkimizda{
+
+
+    background-color: #f2f2f2;
+}
+
+.ayrac{
+border: none;
+border-top: 3px solid #343a40;
+max-width: 250px;
+margin: 25px auto;
+
+}
+
+.ibeyaz{
+
+color:  black;
+position: relative;
+top: -55px;
+font-size: 40px;
+border: 10px solid white;
+background-color:white;
+}
+
+.igri{
+
+    color:  black;
+    position: relative;
+    top: -55px;
+    font-size: 40px;
+    border: 10px solid #f2f2f2;
+    background-color:#f2f2f2;
+    }
+
+ .ekipCard img:hover{
+
+    opacity: 0.8;
+ }
+ 
+ .projeler{
+
+    background-color: #f2f2f2;
+ }
+
+ .figure img:hover{
+
+    opacity: 0.8;
+ }
+
+ .gmap_canvas{
+
+ margin-left: 70px;
+ 
+
+border: 5px solid black;
+ }
+
+ .iletisim{
+
+   background-color: #f2f2f2;
+ }
+ .footerkismi{
+
+   margin-bottom: 20px;
+ }
